@@ -1,6 +1,14 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-4ge1A27HkBvoQtxkr2+5GgjO1bPw\/snHfPuYJhx5Ssg=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-KmOI5ItlVvTEj2n8vD0nOjVftYQNvaaV5+kos1AcV48=",
       "url": "assets\/css\/dark.css"
     },
@@ -109,11 +117,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-j9mPe8BTNCTZvwzV3XIsxqFPsMfmJ5boFYdYE8CDZ1Y=",
+      "hash": "sha256-X2X2FbJtYaQrmDh\/o5glr1FJ1YnraOOpfPEQCUykL4Q=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-uENj4aKciA\/xiaT5n4G8t3cfXmFNVQD1FXtZMMpGH04=",
+      "hash": "sha256-wGnt6JTFWYnJZVlvk7XblvVhk\/7+8QK3l292wobBN3I=",
       "url": "manifest.json"
     },
     {
@@ -509,5 +517,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "6JmCiiwD"
+  "version": "kVKpVNQD"
 };
