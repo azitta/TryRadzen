@@ -121,7 +121,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-wGnt6JTFWYnJZVlvk7XblvVhk\/7+8QK3l292wobBN3I=",
+      "hash": "sha256-uENj4aKciA\/xiaT5n4G8t3cfXmFNVQD1FXtZMMpGH04=",
       "url": "manifest.json"
     },
     {
@@ -517,5 +517,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "kVKpVNQD"
+  "version": "7zs8a72c"
 };
